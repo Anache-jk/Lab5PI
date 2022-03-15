@@ -14,5 +14,5 @@ int main()
 	cin>>second;
 	cout<<"Сумма первого и второго числа = "<<first + second<<endl;
 	cout<<"Разность первого и второго числа = "<<first-second<<endl;
-	cout<<"Division of first and second number = "<<first/second<<endl;
+	cout<<"Multiplication first * second number:"<<first*second<<endl;
 }
